@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "geller": "geller scan -g \"*.ts",
+    "geller": "geller scan -g \"*.ts\"",
     "codegen": "tsx codegen.ts"
   },
   "dependencies": {
